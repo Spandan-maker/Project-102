@@ -1,0 +1,15 @@
+TASKS:
+1. Online class joining
+2. Coding class remainder
+3. Project submission
+
+Important task in all:
+1. Remainding
+
+Modules:
+Time, os
+
+Algorithm:
+1. First check if the entered time is equal to the real time 
+2. Using the OS, send a remainder
+3. If its a specific task, then using OS we can join the class automatically instead of doing it manually
